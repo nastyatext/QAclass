@@ -56,6 +56,7 @@ table {
         flex-direction: row;
 		justify-content: space-between;
 		align-items: baseline;
+		background-color: #a3cbe3 solid;
         
     }
 	header button {
